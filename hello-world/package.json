@@ -1,0 +1,13 @@
+{
+  "name": "hello-world",
+  "description": "hello world test app",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express": "^4.9.4",
+    "logfmt": "^1.1.2"
+  }
+  "engines": {
+	"node": "0.10.x"
+  }
+}
